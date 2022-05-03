@@ -1,1 +1,1 @@
-# fictional-succotash
+## rm -rf / 再见
